@@ -1,0 +1,192 @@
+.text21 {
+    position: absolute;
+    width: 121px;
+    height: 27px;
+    left: 24px;
+    top: 143px;
+    
+    font-family: 'Alata', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    
+    color: #000000;
+}
+.text22 {
+    
+position: absolute;
+width: 350px;
+height: 146px;
+left: 7%;
+top: 10%;
+
+font-family: 'Alata', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #ffffff;
+}
+#Kartinka22 {
+    position: absolute;
+    width: 762px;
+    height: 243px;
+    left: 47px;
+    top: 233px;
+    
+    background: #1CC5FB;
+    border-radius: 100px;
+}
+#Kartinka23 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 813px;
+height: 232px;
+left: 19px;
+top: 491px;
+
+background: rgba(90, 135, 222, 0.63);
+border-radius: 100px;
+}
+.text23 {
+    position: absolute;
+width: 430px;
+height: 283px;
+left: 40%;
+top: 6%;
+
+font-family: 'Alata', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #ffffff;
+
+}
+#Kartinka24 {
+    position: absolute;
+width: 870px;
+height: 250px;
+left: 19px;
+top: 757px;
+
+background: #0486FF;
+border-radius: 100px;
+}
+.text24 {
+    
+position: absolute;
+width: 370px;
+height: 300px;
+left: 7%;
+top: 5%;
+
+font-family: 'Alata', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #ffffff;
+}
+
+#Kartinka25 {
+    position: absolute;
+width: 284px;
+height: 733px;
+left: 881px;
+top: 143px;
+
+background: #6783EA;
+border-radius: 100px;
+}
+
+.text25 {
+    
+position: absolute;
+width: 258px;
+height: 550px;
+left: 5%;
+top: 13%;
+
+font-family: 'Alata', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #ffffff;
+
+}
+#Kartinka26 {
+    position: absolute;
+width: 263px;
+height: 829px;
+left: 1171px;
+top: 178px;
+
+background: #67A0E2;
+border-radius: 100px;
+}
+.text26 {
+    
+position: absolute;
+width: 219px;
+height: 525px;
+left: 5%;
+top: 13%;
+
+font-family: 'Alata', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+
+color: #ffffff;
+}
+.Kartinka27 {
+    position: absolute;
+width: 319px;
+height: 253px;
+left: 438px;
+top: 223px;
+
+}
+.Kartinka28 {
+    position: absolute;
+width: 270px;
+height: 235px;
+left: 24px;
+top: 487px;
+
+}
+.Kartinka29 {
+    position: absolute;
+width: 283px;
+height: 257px;
+left: 504px;
+top: 750px;
+}
+.Kartinka30 {
+    position: absolute;
+width: 242px;
+height: 217px;
+left: 882px;
+top: 659px;
+
+border-radius: 100px;
+}
+.Kartinka31 {
+    
+position: absolute;
+width: 267px;
+height: 192px;
+left: 1144px;
+top: 815px;
+
+border-radius: 100px;
+}
